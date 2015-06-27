@@ -1,0 +1,10 @@
+package com.yuan.git;
+
+public class gitCool {
+
+	public static void main(String[] args) {
+		System.out.println("hello world");
+
+	}
+
+}
